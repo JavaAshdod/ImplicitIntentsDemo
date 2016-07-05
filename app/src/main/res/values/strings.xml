@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="password">Password...</string>
+    <string name="login">Login</string>
+    <string name="email">Email...</string>
+    <string name="et_query_hint">Query</string>
+    <string name="youtube_icon">Youtube Icon</string>
+    <string name="google_icon">Google Icon</string>
+    <string name="android_dev_icon">android Dev icon</string>
+    <string name="dial">Dial</string>
+    <string name="view_web_page">View Web Page</string>
+    <string name="map">Map</string>
+</resources>
